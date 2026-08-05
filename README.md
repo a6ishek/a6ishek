@@ -20,20 +20,23 @@
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+**With this:**
+````html
+<table>
+<tr>
+<td width="60%">
 
 ```python
 class Abishek:
     def __init__(self):
         self.name = "Abishek R"
         self.role = "AI Engineer"
-        self.based_in = "Chennai, IN"
+        self.based_in = "Chennai, India"
 
         self.stack = [
-            "RAG", "LangChain",
-            "Letta", "LoRA/PEFT",
-            "AWS", "Azure", "GCP",
-            "Spark", "Kafka",
+            "RAG", "LangChain", "Letta",
+            "LoRA/PEFT", "AWS", "Azure",
+            "GCP", "Spark", "Kafka",
             "Airflow", "Redshift",
         ]
 
@@ -45,15 +48,23 @@ class Abishek:
         self.fun_fact = "Patent: VehiCure"
 
     def motto(self):
-        return "Ship AI that " \
-               "moves metrics."
+        return "Ship AI that moves metrics."
 
 
 me = Abishek()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+</td>
+</tr>
+</table>
+````
+
+
+<br/>
 
 <!-- ================= TECH BADGES ================= -->
 ### 🛠️ Tech Stack
