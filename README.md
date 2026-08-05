@@ -20,21 +20,14 @@
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👋 Hi, I'm Abishek
 
-<img src="https://img.shields.io/badge/AI%20Engineer-70A5FD?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Chennai%2C%20India-BF91F3?style=flat-square" />
-<img src="https://img.shields.io/badge/2%2B%20Years%20Experience-38BDAE?style=flat-square" />
+🧠 &nbsp;Building **RAG pipelines & agentic AI copilots** across AWS, Azure & GCP
+🔐 &nbsp;Currently exploring **multi-agent systems** and **LLM security**
 
-<br/><br/>
-
-🧠 &nbsp;Building **RAG pipelines, agentic copilots & GenAI security systems**
-☁️ &nbsp;Working across **AWS · Azure · GCP**
-📚 &nbsp;Currently exploring **multi-agent systems** & **LLM security**
-🏆 &nbsp;Patent holder — **VehiCure** (AI + IoT fleet monitoring)
-📫 &nbsp;Reach me at **abishek.rajesh5@gmail.com**
+> *"Ship trustworthy AI that moves real business metrics."*
 
 <br clear="right"/>
 
