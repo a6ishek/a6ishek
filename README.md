@@ -20,39 +20,36 @@
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
-class AbishekR:
+class Abishek:
     def __init__(self):
         self.name = "Abishek R"
-        self.location = "Chennai, India"
-        self.degree = "B.E. CS, Panimalar Eng. College"
-        self.cgpa = 9.36
-        self.role = "AI Engineer @ Schneider Electric"
+        self.role = "AI Engineer"
+        self.based_in = "Chennai, IN"
 
-        self.stack = {
-            "genai": ["RAG", "LangChain",
-                      "Letta", "LoRA/PEFT"],
-            "cloud": ["AWS Bedrock/SageMaker",
-                      "Azure ML/AKS", "GCP Vertex"],
-            "data":  ["Spark", "Kafka",
-                      "Airflow", "Redshift"],
-        }
-
-        self.learning = [
-            "Multi-agent orchestration",
-            "LLM security & red-teaming",
+        self.stack = [
+            "RAG", "LangChain",
+            "Letta", "LoRA/PEFT",
+            "AWS", "Azure", "GCP",
+            "Spark", "Kafka",
+            "Airflow", "Redshift",
         ]
 
-        self.fun_fact = "Patent holder — VehiCure"
+        self.learning = [
+            "Multi-agent systems",
+            "LLM security",
+        ]
+
+        self.fun_fact = "Patent: VehiCure"
 
     def motto(self):
-        return "Ship trustworthy AI that " \
-               "moves real business metrics."
+        return "Ship AI that " \
+               "moves metrics."
 
 
-me = AbishekR()
+me = Abishek()
 print(me.motto())
 ```
 
