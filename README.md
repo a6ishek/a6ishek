@@ -25,9 +25,9 @@
 ### 👋 Hi, I'm Abishek
 
 > *"Ship trustworthy AI that moves real business metrics."*</br>
-> AI Engineer with 2+ years of experience designing and deploying enterprise-scale data pipelines, AI copi-
-lots, and GenAI security frameworks. Skilled in building RAG-enabled copilots, agentic AI systems, mul-
-timodal models, and anomaly detection pipelines using AWS, Azure, and GCP.
+> AI Engineer with 2+ years of experience designing and deploying enterprise-scale data pipelines, AI
+copilots, and GenAI security frameworks. Skilled in building RAG-enabled copilots, agentic AI systems,
+multimodal models, and anomaly detection pipelines using AWS, Azure, and GCP.
 
 <br clear="right"/>
 
