@@ -27,24 +27,29 @@ class AbishekR:
     def __init__(self):
         self.name = "Abishek R"
         self.location = "Chennai, India"
-        self.degree = "B.E. Computer Science, Panimalar Engineering College (CGPA: 9.36)"
+        self.degree = "B.E. CS, Panimalar Eng. College"
+        self.cgpa = 9.36
         self.role = "AI Engineer @ Schneider Electric"
 
         self.stack = {
-            "genai": ["RAG", "LangChain", "Letta", "LoRA/PEFT", "HuggingFace"],
-            "cloud": ["AWS SageMaker/Bedrock", "Azure ML/AKS", "GCP Vertex AI"],
-            "data":  ["Spark", "Kafka", "Airflow", "Kinesis", "Redshift"],
+            "genai": ["RAG", "LangChain",
+                      "Letta", "LoRA/PEFT"],
+            "cloud": ["AWS Bedrock/SageMaker",
+                      "Azure ML/AKS", "GCP Vertex"],
+            "data":  ["Spark", "Kafka",
+                      "Airflow", "Redshift"],
         }
 
-        self.currently_learning = [
-            "Multi-agent orchestration frameworks",
-            "LLM security & adversarial robustness",
+        self.learning = [
+            "Multi-agent orchestration",
+            "LLM security & red-teaming",
         ]
 
-        self.fun_fact = "Patent holder for an AI + IoT fleet monitoring system (VehiCure)"
+        self.fun_fact = "Patent holder — VehiCure"
 
     def motto(self):
-        return "Ship trustworthy AI that moves real business metrics."
+        return "Ship trustworthy AI that " \
+               "moves real business metrics."
 
 
 me = AbishekR()
