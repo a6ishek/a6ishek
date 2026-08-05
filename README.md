@@ -20,51 +20,23 @@
 
 <!-- ================= CODE-BLOCK ABOUT ME ================= -->
 
-**With this:**
-````html
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
-class Abishek:
-    def __init__(self):
-        self.name = "Abishek R"
-        self.role = "AI Engineer"
-        self.based_in = "Chennai, India"
+### 👋 Hi, I'm Abishek
 
-        self.stack = [
-            "RAG", "LangChain", "Letta",
-            "LoRA/PEFT", "AWS", "Azure",
-            "GCP", "Spark", "Kafka",
-            "Airflow", "Redshift",
-        ]
+<img src="https://img.shields.io/badge/AI%20Engineer-70A5FD?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Chennai%2C%20India-BF91F3?style=flat-square" />
+<img src="https://img.shields.io/badge/2%2B%20Years%20Experience-38BDAE?style=flat-square" />
 
-        self.learning = [
-            "Multi-agent systems",
-            "LLM security",
-        ]
+<br/><br/>
 
-        self.fun_fact = "Patent: VehiCure"
+🧠 &nbsp;Building **RAG pipelines, agentic copilots & GenAI security systems**
+☁️ &nbsp;Working across **AWS · Azure · GCP**
+📚 &nbsp;Currently exploring **multi-agent systems** & **LLM security**
+🏆 &nbsp;Patent holder — **VehiCure** (AI + IoT fleet monitoring)
+📫 &nbsp;Reach me at **abishek.rajesh5@gmail.com**
 
-    def motto(self):
-        return "Ship AI that moves metrics."
-
-
-me = Abishek()
-print(me.motto())
-```
-
-</td>
-<td width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
-</td>
-</tr>
-</table>
-````
-
-
-<br/>
+<br clear="right"/>
 
 <!-- ================= TECH BADGES ================= -->
 ### 🛠️ Tech Stack
