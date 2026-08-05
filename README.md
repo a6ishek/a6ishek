@@ -56,7 +56,7 @@ me = AbishekR()
 print(me.motto())
 ```
 
-<br/>
+<br clear="right"/>
 
 <!-- ================= TECH BADGES ================= -->
 ### 🛠️ Tech Stack
