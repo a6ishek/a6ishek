@@ -24,9 +24,6 @@
 
 ### 👋 Hi, I'm Abishek
 
-🧠 &nbsp;Building **RAG pipelines & agentic AI copilots** across AWS, Azure & GCP
-🔐 &nbsp;Currently exploring **multi-agent systems** and **LLM security**
-
 > *"Ship trustworthy AI that moves real business metrics."*
 
 <br clear="right"/>
