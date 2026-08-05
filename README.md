@@ -135,7 +135,9 @@ print(me.motto())
 
 <details>
 <summary><b>Technical Lead (AI and DE) · HCL Technologies</b> — Jun 2024 – Present · Bangalore, India</summary>
-<br/>  
+<br/> 
+</details>
+<details> 
 <summary><b>AI Engineer (Biz Ops) · Schneider Electric</b> — May 2024 – Jun 2024 · Chennai, India</summary>
 <br/>
 
