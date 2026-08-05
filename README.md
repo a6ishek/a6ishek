@@ -134,7 +134,15 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>AI Engineer (Biz Ops) · Schneider Electric</b> — May 2024 – Present · Chennai, India</summary>
+<summary><b>Technical Lead (AI & DE) · HCL Technologies</b> — Jun 2026 – Present · Bangalore, India</summary>
+<br/>
+
+> `Python` `Bedrock` `S3` `Lambda` `Claude Code` `LangGraph` `Google ADK` `MLFlow`
+
+</details>
+
+<details>
+<summary><b>AI Engineer (Biz Ops) · Schneider Electric</b> — May 2024 – Jun 2026 · Chennai, India</summary>
 <br/>
 
 > `AWS SageMaker` `Bedrock` `S3` `Lambda` `EMR` `Airflow` `Power BI` `Grafana`
