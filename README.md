@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abishek-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abishek-r-002810211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:abishek.rajesh5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=a6ishek&style=flat-square&color=70a5fd" alt="Profile views" />
 </p>
